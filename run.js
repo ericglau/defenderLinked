@@ -17,7 +17,7 @@ async function main() {
     constructorInputs: [],
     verifySourceCode: true,
     libraries: {
-      Version: "0x11ae63f7cf126ea9005de2854000752c9dae4afc"
+      "contracts/Version.sol:Version": "0x11ae63f7cf126ea9005de2854000752c9dae4afc"
     },
   };
   
